@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-25T08:10:39.816Z",
+  "referenceCommit": "ce8f9f186058939da54c9d6fead78dfb5d0fd6c3",
+  "typecheck": "passed",
+  "tests": {
+    "passed": 186,
+    "failed": 0,
+    "skipped": 0
+  },
+  "cliRuns": 104,
+  "liveApiChapters": 17,
+  "materials": {
+    "chapters": 17,
+    "markdown": 51,
+    "identicalImages": 74,
+    "localLinks": 450,
+    "skillResources": 9
+  },
+  "pythonBaseline": {
+    "passed": 481,
+    "subtestsPassed": 100,
+    "preexistingWebSnapshotFailures": 1
+  }
+}

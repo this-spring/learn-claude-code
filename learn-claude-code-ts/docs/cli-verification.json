@@ -1,0 +1,526 @@
+{
+  "date": "2026-10-25T08:07:18.588Z",
+  "node": "v22.21.1",
+  "report": [
+    {
+      "tag": "s01",
+      "mode": "sdk",
+      "requests": 2
+    },
+    {
+      "tag": "s01",
+      "mode": "q",
+      "requests": 2
+    },
+    {
+      "tag": "s01",
+      "mode": "exit",
+      "requests": 2
+    },
+    {
+      "tag": "s01",
+      "mode": "eof",
+      "requests": 2
+    },
+    {
+      "tag": "s01",
+      "mode": "sigint",
+      "requests": 2
+    },
+    {
+      "tag": "s01",
+      "mode": "blank",
+      "requests": 2
+    },
+    {
+      "tag": "s02",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s02",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s02",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s02",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s02",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s02",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s03",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s03",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s03",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s03",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s03",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s03",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s04",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s04",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s04",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s04",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s04",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s04",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s05",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s05",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s05",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s05",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s05",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s05",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s06",
+      "mode": "sdk",
+      "requests": 5
+    },
+    {
+      "tag": "s06",
+      "mode": "q",
+      "requests": 5
+    },
+    {
+      "tag": "s06",
+      "mode": "exit",
+      "requests": 5
+    },
+    {
+      "tag": "s06",
+      "mode": "eof",
+      "requests": 5
+    },
+    {
+      "tag": "s06",
+      "mode": "sigint",
+      "requests": 5
+    },
+    {
+      "tag": "s06",
+      "mode": "blank",
+      "requests": 5
+    },
+    {
+      "tag": "s07",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s07",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s07",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s07",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s07",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s07",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s08",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s08",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s08",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s08",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s08",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s08",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s09",
+      "mode": "sdk",
+      "requests": 5
+    },
+    {
+      "tag": "s09",
+      "mode": "q",
+      "requests": 5
+    },
+    {
+      "tag": "s09",
+      "mode": "exit",
+      "requests": 5
+    },
+    {
+      "tag": "s09",
+      "mode": "eof",
+      "requests": 5
+    },
+    {
+      "tag": "s09",
+      "mode": "sigint",
+      "requests": 5
+    },
+    {
+      "tag": "s09",
+      "mode": "blank",
+      "requests": 5
+    },
+    {
+      "tag": "s10",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s10",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s10",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s10",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s10",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s10",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s11",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s11",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s11",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s11",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s11",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s11",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s12",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s12",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s12",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s12",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s12",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s12",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s13",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s13",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s13",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s13",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s13",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s13",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s14",
+      "mode": "sdk",
+      "requests": 4
+    },
+    {
+      "tag": "s14",
+      "mode": "q",
+      "requests": 4
+    },
+    {
+      "tag": "s14",
+      "mode": "exit",
+      "requests": 4
+    },
+    {
+      "tag": "s14",
+      "mode": "eof",
+      "requests": 4
+    },
+    {
+      "tag": "s14",
+      "mode": "sigint",
+      "requests": 4
+    },
+    {
+      "tag": "s14",
+      "mode": "blank",
+      "requests": 4
+    },
+    {
+      "tag": "s15",
+      "mode": "sdk",
+      "requests": 5
+    },
+    {
+      "tag": "s15",
+      "mode": "q",
+      "requests": 5
+    },
+    {
+      "tag": "s15",
+      "mode": "exit",
+      "requests": 5
+    },
+    {
+      "tag": "s15",
+      "mode": "eof",
+      "requests": 5
+    },
+    {
+      "tag": "s15",
+      "mode": "sigint",
+      "requests": 5
+    },
+    {
+      "tag": "s15",
+      "mode": "blank",
+      "requests": 5
+    },
+    {
+      "tag": "s16",
+      "mode": "sdk",
+      "requests": 9
+    },
+    {
+      "tag": "s16",
+      "mode": "q",
+      "requests": 9
+    },
+    {
+      "tag": "s16",
+      "mode": "exit",
+      "requests": 9
+    },
+    {
+      "tag": "s16",
+      "mode": "eof",
+      "requests": 9
+    },
+    {
+      "tag": "s16",
+      "mode": "sigint",
+      "requests": 9
+    },
+    {
+      "tag": "s16",
+      "mode": "blank",
+      "requests": 9
+    },
+    {
+      "tag": "s17",
+      "mode": "sdk",
+      "requests": 5
+    },
+    {
+      "tag": "s17",
+      "mode": "q",
+      "requests": 5
+    },
+    {
+      "tag": "s17",
+      "mode": "exit",
+      "requests": 5
+    },
+    {
+      "tag": "s17",
+      "mode": "eof",
+      "requests": 5
+    },
+    {
+      "tag": "s17",
+      "mode": "sigint",
+      "requests": 5
+    },
+    {
+      "tag": "workflow-demo",
+      "mode": "demo",
+      "requests": 0
+    },
+    {
+      "tag": "workflow-resume",
+      "mode": "resume",
+      "requests": 0
+    },
+    {
+      "tag": "minimal",
+      "mode": "sdk",
+      "requests": 3
+    }
+  ]
+}

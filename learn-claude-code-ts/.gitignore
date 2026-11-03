@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.tasks/
+.mailboxes/
+.worktrees/
+.transcripts/
+.task_outputs/
+.memory/
+.scheduled_tasks.json
+s16_workflow_runtime/.runtime/

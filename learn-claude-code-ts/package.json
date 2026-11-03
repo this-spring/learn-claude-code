@@ -1,0 +1,62 @@
+{
+  "name": "learn-claude-code-ts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.17.0"
+  },
+  "scripts": {
+    "s01": "tsx s01_agent_loop/code.ts",
+    "s02": "tsx s02_tool_use/code.ts",
+    "s03": "tsx s03_permission/code.ts",
+    "s04": "tsx s04_hooks/code.ts",
+    "s05": "tsx s05_todo_write/code.ts",
+    "s06": "tsx s06_subagent/code.ts",
+    "s07": "tsx s07_skill_loading/code.ts",
+    "s08": "tsx s08_context_compact/code.ts",
+    "s09": "tsx s09_memory/code.ts",
+    "s10": "tsx s10_task_system/code.ts",
+    "s11": "tsx s11_background_tasks/code.ts",
+    "s12": "tsx s12_cron_scheduler/code.ts",
+    "s13": "tsx s13_agent_teams/code.ts",
+    "s14": "tsx s14_mcp_plugin/code.ts",
+    "s15": "tsx s15_integrated_harness/code.ts",
+    "s16": "tsx s16_workflow_runtime/code.ts",
+    "s17": "tsx s17_goal_loop/code.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test s*/code.test.ts scripts/*.test.ts",
+    "test:s01": "tsx --test s01_agent_loop/code.test.ts",
+    "test:s02": "tsx --test s02_tool_use/code.test.ts",
+    "test:s03": "tsx --test s03_permission/code.test.ts",
+    "test:s04": "tsx --test s04_hooks/code.test.ts",
+    "test:s05": "tsx --test s05_todo_write/code.test.ts",
+    "test:s06": "tsx --test s06_subagent/code.test.ts",
+    "test:s07": "tsx --test s07_skill_loading/code.test.ts",
+    "test:s08": "tsx --test s08_context_compact/code.test.ts",
+    "test:s09": "tsx --test s09_memory/code.test.ts",
+    "test:s10": "tsx --test s10_task_system/code.test.ts",
+    "test:s11": "tsx --test s11_background_tasks/code.test.ts",
+    "test:s12": "tsx --test s12_cron_scheduler/code.test.ts",
+    "test:s13": "tsx --test s13_agent_teams/code.test.ts",
+    "test:s14": "tsx --test s14_mcp_plugin/code.test.ts",
+    "test:s15": "tsx --test s15_integrated_harness/code.test.ts",
+    "test:s16": "tsx --test s16_workflow_runtime/code.test.ts",
+    "test:s17": "tsx --test s17_goal_loop/code.test.ts",
+    "check:materials": "node scripts/check-materials.mjs",
+    "check:cli": "node scripts/check-cli.mjs",
+    "check:live": "node scripts/check-live-api.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.132.0",
+    "dotenv": "^18.0.6",
+    "fs-ext": "^2.1.1",
+    "yaml": "^2.8.1"
+  },
+  "devDependencies": {
+    "@types/fs-ext": "^2.0.3",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  }
+}
